@@ -1,1 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tribute to MS Dhoni</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: url("bg 1.jpg") no-repeat fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        img {
+            display: block;
+            max-width: 100%;
+            margin: 40px auto;
+            image-resolution:initial;
+           
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .quote {
+            font-style: italic;
+            text-align: center;
+            margin: 20px 0;
+            color: #666;
+        }
+
+        .link {
+            display: block;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .link a {
+            color: #333;
+            text-decoration: none;
+        }
+
+        .link a:hover {
+            text-decoration: underline;
+        }
+    </style>
+   
+</head>
+<body>
+    <div class="container">
+    <h1>MAHENDRA SINGH DHONI</h1>
+   
+        <img src="msd4.jpg" alt="MS Dhoni" width="400" height="400">
+        <img src="msd1.jpg" alt="MS Dhoni" width="350" height="400">
+        <p class="quote">“I live for the moment – not the future, not the past.” - Mahendra Singh Dhoni</p>
+        <p>
+            Mahendra Singh Dhoni, commonly known as MS Dhoni, is an Indian former international cricketer and captain of the Indian national team.
+            He is regarded as one of the greatest wicket-keeper batsmen in the history of cricket.
+        </p>
+        <p>
+            Dhoni made his international debut in 2004 and went on to represent India in over 350 matches across all three formats of the game.
+            He is known for his exceptional leadership skills and his ability to remain calm under pressure.
+        </p>
+        <img src="msd5.jpg" alt="MS Dhoni" width="250" height="400">
+        
+        <p class="quote">"I would go to war with Dhoni by my side." - Gary Kirsten</p>
+        <p>
+            Throughout his career, Dhoni achieved numerous milestones and led India to several victories, including the 2007 ICC World Twenty20, the 2010 and 2016 Asia Cups,
+            the 2011 ICC Cricket World Cup, and the 2013 ICC Champions Trophy.
+            He retired from international cricket in August 2020, leaving a lasting impact on the sport and inspiring millions of aspiring cricketers.
+        </p>
+        <img src="msd6.jpg" alt="MS Dhoni" width="250" height="400">
+       <center><h2>MS Dhoni: A timeline</h2></center>
+        <box>  <ul>
+            <li><strong>December 23, 2004:</strong> Makes his ODI debut against Bangladesh in Chittagong. Is run out for 0 after facing one ball, in a match India win by 11 runs.</li><br>
+
+            <li><strong>April 5, 2005:</strong> The first ODI hundred by an Indian wicketkeeper. After scores of 0, 12, 7* and 3, Dhoni is sent up the order to No 3 against Pakistan in Visakhapatnam and proceeds to smash 148 off 123 balls with 15 fours and four sixes, setting the platform for India's 356/9. The world wakes up to Dhoni's potential.</li><br>
+            <li><strong>October 31, 2005:</strong> Dhoni stamps himself into the history books with a record 183* against Sri Lanka in Jaipur, helping India chase 301 with six wickets and 23 deliveries to spare. Batting at No 3, his 145-ball hundred makes a stiff target look well short and India go up 3-0 in the best-of-seven series.</li><br>
+            <li><strong>September 13, 2007:</strong> Dhoni's first international match in charge of India is a wash out against Scotland in their ICC World Twenty20 opener. Few could have predicted how India's tournament will pan out.</li><br>
+            <li><strong>September 24, 2007:</strong> India win the inaugural World Twenty20 by beating Pakistan in an absolute humdinger in Johannesburg. Dhoni is an overnight sensation once more and the landscape of T20 cricket is changed forever.</li><br>
+            <li><strong>October 2, 2007:</strong> In the next match in Kochi, Dhoni scores his first fifty as captain - 58 off 88 balls - as India are beaten by 84 runs to fall behind 0-1 in the seven-match series.</li><br>
+            <li><strong>November 15, 2007:</strong> First ODI series win for Dhoni as captain, as India beat Pakistan by six wickets in Gwalior to take the lead 3-1 in the best-of-five series. His contribution? An unbeaten 45 off 45 balls as 256 is chased with six wickets in hand.</li><br>
+            <li><strong>March 4, 2008:</strong> A momentous occasion for India as they win their first ODI series in Australia. The landmark comes in the second final of the CB Series, which India win by nine runs to make it 2-0.</li><br>
+            <li><strong>November 26, 2008:</strong> Dhoni's first 5-0 sweep of any team. Victory by six wickets in Cuttack whitewashes Kevin Pietersen's England.</li>
+            <img src="ms4.jpg" alt="MS Dhoni">
+            <li><strong>March 11, 2009:</strong> Dhoni becomes the first Indian captain to win an ODI series in New Zealand. A whirlwind century from Virender Sehwag seals a ten-wicket win in Hamilton.</li><br>
+            <li><strong>February 24, 2010:</strong> India win a three-match series at home over South Africa, riding on Sachin Tendulkar's record-setting 200*. Dhoni injects 68 off 35 balls to a total of 401/3.</li><br>
+            <li><strong>June 24, 2010:</strong> India lift the Asia Cup under Dhoni, beating Sri Lanka by 81 runs in Dambulla.</li><br>
+            <li><strong>April 2, 2011:</strong> India win the World Cup after 28 years, with the skipper hitting the winning runs with a six. Promoting himself up the order, Dhoni shrugs off his poor run in the tournament with the innings of his life: 91* off 79 balls.</li><br>
+            <li><strong>October 25, 2011:</strong> India salvage some pride with a 5-0 win over England when Alastair Cook's team visit. Dhoni is Player of the Series.</li><br>
+            <li><strong>June 23, 2013:</strong> Dhoni marshals his troops superbly to lead India to a narrow five-run win in the final of the Champions Trophy over hosts England, thus becoming the first captain to hold all three of the ICC's major titles.</li><br>
+            <li><strong>September 2, 2014:</strong> A sliver of brightness for India away from home. They beat England by nine wickets in Birmingham to win the ODI leg of another difficult tour.</li><br>
+            <li><strong>March 23, 2016:</strong> Dhoni's coolness and ability to back players under immense pressure is to the fore in Bangalore, where Bangladesh are beaten by one run during the World Twenty20. Dhoni helps India pull off an incredible heist.</li><br>
+            <li><strong>January 4, 2017:</strong> Announces that he is giving up the captaincy, but remains available for selection for the upcoming England series.</li><br>
+          </ul></box>
+          <img src="msd3.jpg" alt="MS Dhoni" width="250" height="400">
+         <p align = center>  <em> When I die, the last thing I want to see is the six that Dhoni hit in the 2011 World Cupfinal.</em>
+              <br><cite>-Sunil Gavaskar<cite>
+            </footer> </p>
+
+            <center><h3>Awards and National honours </h3></center>
+            <p>
+            2018: Padma Bhushan, India’s third-highest civilian award.<br>
+            2009: Padma Shri, India’s fourth-highest civilian award.<br>
+            2007−08: Rajiv Gandhi Khel Ratna, India’s highest honor given for achievement in sports.<br>
+            <img src="msd.png" alt="MS Dhoni">
+        </p>
+        
+        <img src="ms5.jpg" alt="MS Dhoni" width="400" height="400">
+        
+        
+        <p class="quote">"The process is more important than the results. And if you take care of the process, you will get the results." - MS Dhoni</p>
+        <div class="link">
+            <a href="https://en.wikipedia.org/wiki/MS_Dhoni" target="_blank">Learn more about MS Dhoni</a>
+        </div>
+    </div>
+</body>
+</html>
 
